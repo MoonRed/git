@@ -7,6 +7,7 @@ int main()
     int contador = 0;
 
     cout<<"Ingresar un numero:"<<endl;
+
     cin>>numeros;
 
     do
