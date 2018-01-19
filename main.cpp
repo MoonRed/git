@@ -6,7 +6,7 @@ int main()
     int numeros = 1234;
     int contador = 0;
 
-    cout<<"Ingresa los numeros"<<endl;
+    cout<<"Ingresar"<<endl;
     cin>>numeros;
 
     do
